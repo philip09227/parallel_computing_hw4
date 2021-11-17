@@ -1,0 +1,65 @@
+process = 2^2 size =4 type = -1 
+[Proc: 0] number of processes = 2, initial local list size = 4, hypercube quicksort time = 0.011330
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 2^4 size =4 type = -2 
+[Proc: 0] number of processes = 4, initial local list size = 4, hypercube quicksort time = 0.019981
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 2^8 size =4 type = -1 
+[Proc: 0] number of processes = 8, initial local list size = 4, hypercube quicksort time = 0.028403
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 2^16 size =4 type = 0 
+[Proc: 0] number of processes = 16, initial local list size = 4, hypercube quicksort time = 0.032346
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 2^16 size =20480000 type = 0 
+srun: Job 1934944 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 1934944
+[Proc: 0] number of processes = 16, initial local list size = 20480000, hypercube quicksort time = 3.076114
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 1 size =20480000 type = 0 
+[Proc: 0] number of processes = 1, initial local list size = 20480000, hypercube quicksort time = 2.655557
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 2 size =20480000 type = 0 
+[Proc: 0] number of processes = 2, initial local list size = 20480000, hypercube quicksort time = 2.729212
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 4 size =20480000 type = 0 
+[Proc: 0] number of processes = 4, initial local list size = 20480000, hypercube quicksort time = 2.840533
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 8 size =20480000 type = 0 
+[Proc: 0] number of processes = 8, initial local list size = 20480000, hypercube quicksort time = 3.008249
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 16 size =20480000 type = 0 
+srun: Job 1934944 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 1934944
+[Proc: 0] number of processes = 16, initial local list size = 20480000, hypercube quicksort time = 3.056492
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 32 size =20480000 type = 0 
+srun: Job 1934944 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 1934944
+[Proc: 0] number of processes = 32, initial local list size = 20480000, hypercube quicksort time = 3.196551
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 64 size =20480000 type = 0 
+[Proc: 0] number of processes = 64, initial local list size = 20480000, hypercube quicksort time = 3.383525
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 1 size =20480000/1 type = 0 
+[Proc: 0] number of processes = 1, initial local list size = 20480000, hypercube quicksort time = 2.666153
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 2 size =20480000/2 type = 0 
+[Proc: 0] number of processes = 2, initial local list size = 10240000, hypercube quicksort time = 1.327273
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 4 size =20480000/4 type = 0 
+[Proc: 0] number of processes = 4, initial local list size = 5120000, hypercube quicksort time = 0.664592
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 8 size =20480000/8 type = 0 
+[Proc: 0] number of processes = 8, initial local list size = 2560000, hypercube quicksort time = 0.350834
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 16 size =20480000/16 type = 0 
+[Proc: 0] number of processes = 16, initial local list size = 1280000, hypercube quicksort time = 0.191317
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 32 size =20480000/32 type = 0 
+srun: Job 1934944 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 1934944
+[Proc: 0] number of processes = 32, initial local list size = 640000, hypercube quicksort time = 0.115176
+[Proc: 0] Congratulations. The list has been sorted correctly.
+process = 64 size =2048000/640 type = 0 
+[Proc: 0] number of processes = 64, initial local list size = 320000, hypercube quicksort time = 0.062594
+[Proc: 0] Congratulations. The list has been sorted correctly.
